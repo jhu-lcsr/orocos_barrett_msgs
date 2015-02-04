@@ -1,5 +1,5 @@
-RTT Barrett Interface
-=====================
+Orocos Barrett Messages
+=======================
 
-This package provides a single abstract class derived from `RTT::TaskContext`
-which represents a `libbarrett::ProductManager` on a given bus.
+This package provides ROS messages for communicating with the Orocos Barrett
+interfaces.
